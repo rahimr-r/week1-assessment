@@ -10,7 +10,7 @@ This project analyzes employee data using Python and Pandas. It demonstrates Git
 - `data/cities.csv` — Employee dataset.
 - `notebooks/city_analysis.ipynb` — Jupyter Notebook analysis.
 - `src/city_analysis.py` — Exported Python script.
-- `reports/` — Project findings and reports.
+- `reports/findings.md` — Analysis findings report.
 
 ## Setup Instructions
 
